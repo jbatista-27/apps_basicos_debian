@@ -10,7 +10,7 @@
 **4º aptitude** - Gerenciador de pacotes complementar ao apt-get \
 **5º sshpass** - Server para passar a senha como parâmetro \
 **6º timeshift** - Cria snapshot do S.O \
-**7º ufw** - Firewall para linux \
+**7º ufw** - Firewall para linux
 
 ## 1º Vim
 
