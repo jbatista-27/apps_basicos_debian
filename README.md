@@ -10,7 +10,8 @@
 **4º aptitude** - Gerenciador de pacotes complementar ao apt-get \
 **5º sshpass** - Server para passar a senha como parâmetro \
 **6º timeshift** - Cria snapshot do S.O \
-**7º ufw** - Firewall para linux
+**7º ufw** - Firewall para linux \
+**8º ncdu** - verifica espaço em disco
 
 ## 1º Vim
 
@@ -72,3 +73,11 @@ O **UFW** (Uncomplicated Firewall) é uma ferramenta simples e fácil de usar pa
 - **ufw enable**
 > Verificar lista de portas liberadas/bloqueadas
 - **sudo ufw status**
+
+  ## 8º ncdu
+
+  O ncdu (NCurses Disk Usage) é uma ferramenta de linha de comando para analisar e visualizar o uso de espaço em disco. Ele fornece uma interface interativa e de fácil navegação para explorar diretórios e arquivos que estão ocupando mais espaço no sistema. O ncdu é útil para identificar rapidamente o que está consumindo o espaço em disco, permitindo que você tome ações para liberar espaço de forma eficiente.
+
+  ### Exemplo
+  - ncpdu /var
+    
