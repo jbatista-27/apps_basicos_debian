@@ -11,6 +11,7 @@ apt install aptitude -y
 apt install sshpass -y
 apt install timeshift -y
 apt install ncdu -y
+apt install neofetch -y
 
 
 echo "Deseja instalar o Firewall UFW? (s/n)"
