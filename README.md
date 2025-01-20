@@ -1,6 +1,7 @@
 # Atualiza os Repositórios do Linux
 
->Utiliza o comando **apt update** para atualizar a lista de pacotes linux
+>1º Utiliza o comando **apt update** para atualizar a lista de pacotes linux \
+>2º Instala os pacotes previamente definidos
 
 # Lista de Pacotes para Instalação 
 
