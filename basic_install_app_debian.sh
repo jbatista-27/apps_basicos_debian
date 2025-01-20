@@ -10,6 +10,7 @@ apt install bash-completion -y
 apt install aptitude -y
 apt install sshpass -y
 apt install timeshift -y
+apt install ncdu -y
 
 
 echo "Deseja instalar o Firewall UFW? (s/n)"
