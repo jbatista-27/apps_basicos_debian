@@ -74,10 +74,10 @@ O **UFW** (Uncomplicated Firewall) é uma ferramenta simples e fácil de usar pa
 > Verificar lista de portas liberadas/bloqueadas
 - **sudo ufw status**
 
-  ## 8º ncdu
+ ## 8º ncdu
 
-  O ncdu (NCurses Disk Usage) é uma ferramenta de linha de comando para analisar e visualizar o uso de espaço em disco. Ele fornece uma interface interativa e de fácil navegação para explorar diretórios e arquivos que estão ocupando mais espaço no sistema. O ncdu é útil para identificar rapidamente o que está consumindo o espaço em disco, permitindo que você tome ações para liberar espaço de forma eficiente.
+ O ncdu (NCurses Disk Usage) é uma ferramenta de linha de comando para analisar e visualizar o uso de espaço em disco. Ele fornece uma interface interativa e de fácil navegação para explorar diretórios e arquivos que estão ocupando mais espaço no sistema. O ncdu é útil para identificar rapidamente o que está consumindo o espaço em disco, permitindo que você tome ações para liberar espaço de forma eficiente.
 
-  ### Exemplo
-  - ncpdu /var
+ ### Exemplo
+ - ncdu /var
     
