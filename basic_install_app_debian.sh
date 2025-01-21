@@ -25,4 +25,4 @@ fi
 
 echo ""
 echo ""
-echo "Para informacoes sobre os apps instalados abrar o arquivo README.md
+echo "Para informacoes sobre os apps instalados abrar o arquivo README.md"
